@@ -50,7 +50,7 @@ void loop() {
 2. Instalar la libreria de DHT sensor library for ESPx como se muestra en la siguente imagen.
 ![](https://github.com/nijs17/Practica-2-sensor-DHT22/blob/main/LIB.png)
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
-![]()
+![](https://github.com/nijs17/Practica-3-lsd/blob/main/3c.png)
 
 ## INSTRUCCIONES DE OPERACION 
 
@@ -59,4 +59,4 @@ void loop() {
     3. Colocar la temperatura y humedad dando doble click al sensor DHT11
 ## RESUSLTADOS
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-![](https://github.com/nijs17/Practica-2-sensor-DHT22/blob/main/DAT.png)
+![]()
